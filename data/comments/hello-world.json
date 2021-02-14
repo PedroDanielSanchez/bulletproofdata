@@ -22,5 +22,13 @@
     "content": "This is it",
     "createdAt": 1613283281359,
     "id": "rl9ycq-qASWvn6AcVubqHSiyNAnc56"
+  },
+  {
+    "userId": "github-2424791",
+    "name": "Pedro Sanchez",
+    "avatar": "https://avatars.githubusercontent.com/u/2424791?v=4",
+    "content": "This is the comment content",
+    "createdAt": 1613284019065,
+    "id": "dsd5NUuCB-D9jkz2MT7SnsUQYD_LEK"
   }
 ]
